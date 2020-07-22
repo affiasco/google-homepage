@@ -1,0 +1,1 @@
+This is a project for the Odin Project's web development course to deconstruct and reconstruct a webpage. THis project will focus on recreating the Google search engine web page. 
